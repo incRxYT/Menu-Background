@@ -1,27 +1,21 @@
 {
-  "geode": "4.10.0",
+  "geode": "5.3.0",
   "gd": {
-    "win": "2.2074",
-    "android": "2.2074",
-    "mac": "2.2074",
-    "ios": "2.2074"
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
   },
-  "version": "1.1.3",
+  "version": "1.1.4",
   "id": "user95401.main-menu-background",
   "name": "Main Menu Background",
-  "developers": [ "LatterRarity70" ],
-  "description": "My background menu mod with GIFs support and other extra stuff.",
+  "developers": [ "lil2kki" ],
+  "description": "My background menu mod with some extra stuff.",
   "tags": [ "interface", "utility" ],
   "links": {
     "community": "https://discord.gg/6SxAbk3bTA",
-    "homepage": "https://t.me/LatterRarity70",
-    "source": "https://github.com/LatterRarity70/Menu-Background"
-  },
-  "dependencies": {
-    "user95401.gif-sprites": {
-      "version": ">=v1.0.0",
-      "importance": "recommended"
-    }
+    "homepage": "https://t.me/lil2kki_ch",
+    "source": "https://github.com/lil2kki/Menu-Background"
   },
   "settings": {
     "SETUP_MODE_ENABLED": {
